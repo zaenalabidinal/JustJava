@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="action_settings">Settings</string>
+    <string name="jenkel">Laki-Laki</string>
+    <string name="nama">Zaenal Abidin</string>
+    <string name="kota">Jakarta</string>
+    <string name="nol">0</string>
+    <string name="barang">coffe</string>
+    <string name="harga">harga</string>
+    <string name="jumlah">jumlah</string>
+    <string name="penambahan">+</string>
+    <string name="pengurangan">-</string>
+    <string name="submit">submit</string>
+    <string name="reset">reset</string>
+    <string name="intent">intent</string>
+    <string name="exit">exit</string>
+</resources>
